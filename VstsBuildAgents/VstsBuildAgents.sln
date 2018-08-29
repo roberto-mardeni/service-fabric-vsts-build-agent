@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "VstsBuildAgents", "VstsBuildAgents\VstsBuildAgents.sfproj", "{3C3599D5-B51B-4F41-BD4D-4D31321C455C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3599D5-B51B-4F41-BD4D-4D31321C455C}.Debug|x64.ActiveCfg = Debug|x64
+		{3C3599D5-B51B-4F41-BD4D-4D31321C455C}.Debug|x64.Build.0 = Debug|x64
+		{3C3599D5-B51B-4F41-BD4D-4D31321C455C}.Debug|x64.Deploy.0 = Debug|x64
+		{3C3599D5-B51B-4F41-BD4D-4D31321C455C}.Release|x64.ActiveCfg = Release|x64
+		{3C3599D5-B51B-4F41-BD4D-4D31321C455C}.Release|x64.Build.0 = Release|x64
+		{3C3599D5-B51B-4F41-BD4D-4D31321C455C}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4C508D9-02AF-49A8-A9CA-08F8886233AF}
+	EndGlobalSection
+EndGlobal
